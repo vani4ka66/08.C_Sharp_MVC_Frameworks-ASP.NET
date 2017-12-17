@@ -14,5 +14,6 @@
 
         [Required]
         public virtual Game Game { get; set; }
+        
     }
 }
